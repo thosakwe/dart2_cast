@@ -1,10 +1,10 @@
 name: dart2_cast
-version: 1.0.0+dart2
+version: 1.0.0+dart1
 description: Dart 1 polyfills for Dart 2 .cast() and .whereType() methods.
 author: Tobechukwu Osakwe <thosakwe@gmail.com>
 homepage: https://github.com/thosakwe/dart2_cast
 environment:
-  sdk: ">=2.0.0-dev <3.0.0"
+  sdk: ">=1.8.0 <2.0.0-dev"
 dependencies:
   collection: ^1.0.0
 dev_dependencies:
